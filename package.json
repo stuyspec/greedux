@@ -24,7 +24,7 @@
     "template",
     "server"
   ],
-  "repository": "https://github.com/rob2d/generator-react-redux-gulp",
-  "author": "Robert Concepcion III",
+  "repository": "https://github.com/stuyspec/generator-react-redux-gulp",
+  "author": "The Stuyvesant Spectator",
   "license": "MIT"
 }
