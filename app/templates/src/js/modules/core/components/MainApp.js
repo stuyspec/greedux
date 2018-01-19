@@ -2,7 +2,7 @@ import React, { PureComponent } from "react";
 import injectSheet from "react-jss";
 import { connect } from "react-redux";
 
-import { refreshWindowDimensions } from "./../actions";
+import { refreshWindowDimensions } from "../actions";
 
 const styles = {};
 
