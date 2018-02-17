@@ -1,15 +1,18 @@
 import React from "react";
 import injectSheet from "react-jss";
-import { connect } from "react-redux";
 
-const styles = {};
-
-const MainApp = ({ classes }) => {
-  return null;
+const styles = {
+  MainApp: {
+    
+  },
 };
 
-const mapStateToProps = state => ({
-  
-});
+const MainApp = ({ classes }) => {
+  return (
+    <div className={classes.MainApp}>
 
-export default connect(mapStateToProps)(injectSheet(styles)(MainApp));
+    </div>
+  )
+};
+
+export default injectSheet(styles)(MainApp);
