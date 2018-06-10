@@ -1,5 +1,13 @@
 A modular, clean and scalable modern workflow template for React/Redux development!
 
+## How to Use this Fork
+```
+npm install -g yo
+clone the fork
+npm link # inside the cloned folder
+yo greedux # inside the project folder
+```
+
 ## Requirements ##
 * NodeJS : 6.x.x - Latest Stable Version
 * NPM : 3.x or higher (Preferably 5.x)
